@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there, I'm Gain!
 
-<!--
-**gain-0525/gain-0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Frontend Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building user-centered web applications and exploring AI technologies that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm expanding my experience through projects involving **React**, **TypeScript**, **Next.js**, **AWS**, and **Machine Learning**, while continuously learning software engineering and cloud technologies.
+
+## 🚀 Tech Stack
+
+### Frontend
+
+* React
+* Next.js
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+
+## 🌱 Interests
+
+* Frontend Development
+* Artificial Intelligence
+* Human-Computer Interaction
+* Cloud & DevOps
+
+## 📫 Contact
+
+* Email: [kimgain0525@sookmyung.ac.kr](mailto:kimgain0525@sookmyung.ac.kr)
+* Blog: https://gannispace.tistory.com/
+* Portfolio: your-portfolio-link
+
+---
+
+> *"Always learning, always building."* 🚀
