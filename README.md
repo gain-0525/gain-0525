@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Gain!
 
-### 💻 Computer Science Student | Frontend Developer | AI Enthusiast
+### 💻 Computer Science Student | Frontend Developer
 
 I'm a Computer Science student passionate about creating intuitive web experiences and exploring AI technologies that solve real-world problems.
 
