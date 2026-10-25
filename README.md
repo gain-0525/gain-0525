@@ -21,6 +21,11 @@ Currently, I'm focusing on **Frontend Development**, **Cloud**, and **AI**, whil
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,express,mysql" />
 </p>
 
+### Deployment & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify" />
+</p>
+
 ### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,notion" />
