@@ -4,7 +4,7 @@
 
 I'm a Computer Science student passionate about creating intuitive web experiences and exploring AI technologies that solve real-world problems.
 
-Currently, I'm focusing on **Frontend Development**, **Cloud**, and **AI**, while continuously learning software engineering and building practical projects.
+Currently, I'm focusing on **Fullstack Developer**, **Cloud**, and **AI**, while continuously learning software engineering and building practical projects.
 
 ---
 
