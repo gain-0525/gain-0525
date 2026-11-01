@@ -129,6 +129,16 @@ React · TypeScript · OpenAI API, Netlify
 > UniTrip과 Actionary 2가지 웹 프로젝트를 진행하였습니다.
 
 ---
+## 🏆 Awards & Achievements
+
+| Date | Award | Competition |
+|------|-------|-------------|
+| 2026.11 | 🥇 대상 | SW MVP 경진대회 |
+| 2026.02 | 🏆 최우수상 | UMC 9th Demo Day |
+| 2025.11 | 🥇 우수상 | 디지털 인문학 연구 발표회 |
+
+---
+
 
 ## 📫 Connect with Me
 
